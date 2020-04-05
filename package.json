@@ -25,7 +25,9 @@
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 9009 -s public",
     "build-storybook": "build-storybook -s public",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "gh-deploy": "d: && cd d:\\codes\\mchayapol.github.io && git pull && xcopy d:\\codes\\research\\mute-chat\\build d:\\codes\\mchayapol.github.io\\mute-chat /e /y &&  git add . && git commit -a -m \"deploy MUTE CHAT\" && git push"
+
   },
   "eslintConfig": {
     "extends": "react-app"
