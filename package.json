@@ -1,7 +1,7 @@
 {
   "name": "mute-chat",
-  "version": "0.1.2",
-  "homepage": "https://mchayapol.github.io/mute-chat",
+  "version": "0.1.3",
+  "homepage": "http://mchayapol.github.io/mute-chat",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
