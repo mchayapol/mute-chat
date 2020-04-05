@@ -1,7 +1,7 @@
 {
   "name": "mute-chat",
-  "version": "0.1.1",
-  "homepage": "http://mchayapol.github.io/mute-chat",
+  "version": "0.1.2",
+  "homepage": "https://mchayapol.github.io/mute-chat",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -10,7 +10,6 @@
     "bootstrap": "^4.4.1",
     "chart.js": "^2.9.3",
     "face-api.js": "^0.22.2",
-    "gh-pages": "^2.2.0",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.0",
     "react-chartjs-2": "^2.9.0",
@@ -48,6 +47,7 @@
     "@storybook/addon-links": "^5.3.18",
     "@storybook/addons": "^5.3.18",
     "@storybook/preset-create-react-app": "^2.1.1",
-    "@storybook/react": "^5.3.18"
+    "@storybook/react": "^5.3.18",
+    "gh-pages": "^2.2.0"
   }
 }
